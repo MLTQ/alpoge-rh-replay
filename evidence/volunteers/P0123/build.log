@@ -1,0 +1,2006 @@
+⚠ [8707/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntCastTraceEqTraceQuotientOfMem
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:83:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:84:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:89:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:90:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:92:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:101:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:104:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:108:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:124:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:126:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:128:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:129:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:131:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMem.lean:133:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8708/8823] Replayed Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.UnitLemmaGroup
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/UnitLemmaGroup.lean:121:15: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/UnitLemmaGroup.lean:126:15: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+⚠ [8710/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntegralSumIndicatorTranslate
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntegralSumIndicatorTranslate.lean:14:18: `continuous_mul_right` has been deprecated: Use `continuous_mul_const` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntegralSumIndicatorTranslate.lean:17:6: `MeasureTheory.integral_finset_sum` has been deprecated: Use `MeasureTheory.integral_finsetSum` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntegralSumIndicatorTranslate.lean:44:58: `continuous_mul_right` has been deprecated: Use `continuous_mul_const` instead
+⚠ [8711/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsInvariantRightInverseField
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsInvariantRightInverseField.lean:58:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsInvariantRightInverseField.lean:56:18: Variable name `inst` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsInvariantRightInverseField.lean:56:97: Variable name `inst_1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsInvariantRightInverseField.lean:56:146: Variable name `inst_4` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_4
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [8712/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InvariantRightInverseOfRightInverse
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:15:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:16:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:17:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:18:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:19:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:15:4: Unused tactic linter: `exact _root_.GlobalTheory.InvariantRightInverse.exists_invariant_rightInverse` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:16:4: Unused tactic linter: `(apply _root_.GlobalTheory.InvariantRightInverse.exists_invariant_rightInverse <;>
+    assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:17:4: Unused tactic linter: `(intros;
+  apply _root_.GlobalTheory.InvariantRightInverse.exists_invariant_rightInverse <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:18:4: Unused tactic linter: `(intros;
+  apply @_root_.GlobalTheory.InvariantRightInverse.exists_invariant_rightInverse <;>
+    first
+    | assumption
+    | infer_instance)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/InvariantRightInverseOfRightInverse.lean:19:4: Unused tactic linter: `(intros;
+  exact _root_.GlobalTheory.InvariantRightInverse.exists_invariant_rightInverse ..)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8713/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MemSpanIndicatorLowerSetsFinitePoset
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MemSpanIndicatorLowerSetsFinitePoset.lean:26:72: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MemSpanIndicatorLowerSetsFinitePoset.lean:47:69: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MemSpanIndicatorLowerSetsFinitePoset.lean:31:40: This simp argument is unused:
+  h1
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Option.some.injEq]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8714/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGLOfSpanRangeEqLocalRing
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsGLOfSpanRangeEqLocalRing.lean:22:36: `Submodule.linearProjOfIsCompl` has been deprecated: Use `Submodule.projectionOnto` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsGLOfSpanRangeEqLocalRing.lean:43:12: `Submodule.linearProjOfIsCompl` has been deprecated: Use `Submodule.projectionOnto` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsGLOfSpanRangeEqLocalRing.lean:44:4: `Submodule.linearProjOfIsCompl_apply_left` has been deprecated: Use `Submodule.projectionOnto_apply_left` instead
+⚠ [8715/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ImportsSide
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ImportsSide.lean:70:39: Variable name `inst` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ImportsSide.lean:70:264: Variable name `inst` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [8717/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsBaseChangeLatticeOfBasisAfterExtensionStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsBaseChangeLatticeOfBasisAfterExtensionStatement.lean:6:78: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsBaseChangeLatticeOfBasisAfterExtensionStatement.lean:6:145: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsBaseChangeLatticeOfBasisAfterExtensionStatement.lean:6:78: Unused tactic linter: `exact GlobalTheory.isBaseChange_subtype_of_basis_after_extension` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsBaseChangeLatticeOfBasisAfterExtensionStatement.lean:6:145: Unused tactic linter: `(intros;
+  apply GlobalTheory.isBaseChange_subtype_of_basis_after_extension <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8718/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsCompactIntMatrix
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:12:13: `Set.setOf_forall` has been deprecated: Use `Set.ofPred_forall` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:21:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:38:18: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:47:18: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:72:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:73:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:74:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:75:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:76:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:77:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsCompactIntMatrix.lean:78:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8719/8823] Replayed Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemBallOfGaugeLt
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/MemBallOfGaugeLt.lean:337:8: This simp argument is unused:
+  UniformSpace.Completion.mapRingHom_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [_root_.GlobalTheory.BSP.Disc.map]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8720/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsDomainClosedDiscGaugeCompletionOfEquivNorm
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:10:8: automatically included section variable(s) unused in theorem `_private.Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsDomainClosedDiscGaugeCompletionOfEquivNorm.0.GlobalTheory.BSP.DiscDomain.gauge_mul_le_of_mem_ball`:
+  hl
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit hl in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:24:13: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:21:8: automatically included section variable(s) unused in theorem `_private.Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsDomainClosedDiscGaugeCompletionOfEquivNorm.0.GlobalTheory.BSP.DiscDomain.algebraMap_natCast_mem_ball_inv`:
+  hl
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit hl in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:32:13: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:29:8: automatically included section variable(s) unused in theorem `_private.Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsDomainClosedDiscGaugeCompletionOfEquivNorm.0.GlobalTheory.BSP.DiscDomain.invSelf_mem_ball`:
+  hl
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit hl in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:62:8: automatically included section variable(s) unused in theorem `_private.Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsDomainClosedDiscGaugeCompletionOfEquivNorm.0.GlobalTheory.BSP.DiscDomain.exists_mul_pow_eq_algebraMap`:
+  hl
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit hl in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:113:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsDomainClosedDiscGaugeCompletionOfEquivNorm.lean:114:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8722/8823] Replayed Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:11:0: automatically included section variable(s) unused in theorem `GlobalTheory.isArtinianRing_quotient_of_dimensionLEOne`:
+  [IsDomain A]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsDomain A] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:183:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:187:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:188:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:191:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:202:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:203:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:211:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:212:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:388:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:417:4: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:531:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:566:0: automatically included section variable(s) unused in theorem `GlobalTheory.exists_discreteValuationSubring_dominating`:
+  [IsDomain R]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsDomain R] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:577:0: automatically included section variable(s) unused in theorem `GlobalTheory.range_algebraMap_eq_iInf_discreteValuationSubring`:
+  [IsDomain R]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsDomain R] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:629:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:668:4: `IsLocalization.comap_map_of_isPrime_disjoint` has been deprecated: Use `IsLocalization.under_map_of_isPrime_disjoint` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/RangeAlgebraMapEqIInfDiscreteValuationSubring.lean:670:4: `Localization.AtPrime.comap_maximalIdeal` has been deprecated: Use `Localization.AtPrime.under_maximalIdeal` instead
+⚠ [8723/8823] Replayed Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.PowerSeriesOneAddConstMulXMulInv
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/PowerSeriesOneAddConstMulXMulInv.lean:153:0: automatically included section variable(s) unused in theorem `GlobalTheory.PhiGam.pull_le_pull`:
+  [Module k⸨X⸩ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Module k⸨X⸩ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/PowerSeriesOneAddConstMulXMulInv.lean:182:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/PowerSeriesOneAddConstMulXMulInv.lean:183:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/PowerSeriesOneAddConstMulXMulInv.lean:291:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8725/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsNilpotentResidueToMatrixMulLeftStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsNilpotentResidueToMatrixMulLeftStatement.lean:7:69: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsNilpotentResidueToMatrixMulLeftStatement.lean:7:127: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsNilpotentResidueToMatrixMulLeftStatement.lean:7:69: Unused tactic linter: `exact GlobalTheory.isNilpotent_residue_toMatrix_mulLeft` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsNilpotentResidueToMatrixMulLeftStatement.lean:7:127: Unused tactic linter: `(intros; apply GlobalTheory.isNilpotent_residue_toMatrix_mulLeft <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8727/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsTotallyComplexOfPrimitiveRootThreeLeStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsTotallyComplexOfPrimitiveRootThreeLeStatement.lean:8:39: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsTotallyComplexOfPrimitiveRootThreeLeStatement.lean:8:67: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsTotallyComplexOfPrimitiveRootThreeLeStatement.lean:8:39: Unused tactic linter: `exact GlobalTheory.tcroot` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsTotallyComplexOfPrimitiveRootThreeLeStatement.lean:8:67: Unused tactic linter: `(intros; apply GlobalTheory.tcroot <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8729/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitOfNotDvd
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsUnitOfNotDvd.lean:22:0: automatically included section variable(s) unused in theorem `GlobalTheory.HermNbr.exists_unit_conj`:
+  [IsFractionRing O K]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsFractionRing O K] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsUnitOfNotDvd.lean:59:0: automatically included section variable(s) unused in theorem `GlobalTheory.HermNbr.ratio_mem_iff`:
+  [IsFractionRing O K]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsFractionRing O K] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsUnitOfNotDvd.lean:104:4: `push_neg` has been deprecated. Prefer using `push Not` instead.
+If you'd rather continue using `push_neg` in your project, you can implement it as follows:
+```
+open Lean.Parser.Tactic in
+macro "push_neg" cfg:optConfig loc:(location)? : tactic =>
+  `(tactic| push $cfg:optConfig Not $[$loc]?)
+```
+⚠ [8731/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LangXRoot
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LangXRoot.lean:14:0: automatically included section variable(s) unused in theorem `GlobalTheory.PMonE.LangIsogenyConstruction.langX_dvd`:
+  [IsAlgClosed k]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsAlgClosed k] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LangXRoot.lean:219:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LangXRoot.lean:220:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8733/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LatticeCosetTranslateMemOfCover
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LatticeCosetTranslateMemOfCover.lean:114:16: This simp argument is unused:
+  Algebra.smul_def
+
+Hint: Omit it from the simp argument list.
+  [apply] simp
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8734/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LatticeCosetTranslateMemOfCoverStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LatticeCosetTranslateMemOfCoverStatement.lean:8:61: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LatticeCosetTranslateMemOfCoverStatement.lean:8:111: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LatticeCosetTranslateMemOfCoverStatement.lean:7:8: Overlapping instance parameters in `GlobalTheory.T.lattice_coset_translate_mem_of_cover`:
+
+⚠️ `[IsDomain O]` and `[IsDiscreteValuationRing O]` each imply `[Nontrivial O]`.
+💡️ Of these, `[IsDomain O]` and `[IsDiscreteValuationRing O]` may be removed.
+
+Note: This linter can be disabled with `set_option linter.overlappingInstances false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LatticeCosetTranslateMemOfCoverStatement.lean:8:61: Unused tactic linter: `exact GlobalTheory.coset_translate_mem_of_cover` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LatticeCosetTranslateMemOfCoverStatement.lean:8:111: Unused tactic linter: `(intros; apply GlobalTheory.coset_translate_mem_of_cover <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8735/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LaurentDegenerationFirstOrderKernel
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LaurentDegenerationFirstOrderKernel.lean:109:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8736/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LaurentDegenerationFirstOrderKernelStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LaurentDegenerationFirstOrderKernelStatement.lean:7:53: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LaurentDegenerationFirstOrderKernelStatement.lean:7:95: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LaurentDegenerationFirstOrderKernelStatement.lean:7:53: Unused tactic linter: `exact GlobalTheory.laurent_degeneration` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LaurentDegenerationFirstOrderKernelStatement.lean:7:95: Unused tactic linter: `(intros; apply GlobalTheory.laurent_degeneration <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8738/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LiftHasSumZeroOfSurjectiveModPrimeStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LiftHasSumZeroOfSurjectiveModPrimeStatement.lean:7:49: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LiftHasSumZeroOfSurjectiveModPrimeStatement.lean:7:87: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LiftHasSumZeroOfSurjectiveModPrimeStatement.lean:7:49: Unused tactic linter: `exact GlobalTheory.lift_hasSum_zero` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LiftHasSumZeroOfSurjectiveModPrimeStatement.lean:7:87: Unused tactic linter: `(intros; apply GlobalTheory.lift_hasSum_zero <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8740/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LinearIndependentFormsIntermediateFieldStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentFormsIntermediateFieldStatement.lean:12:64: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentFormsIntermediateFieldStatement.lean:12:117: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentFormsIntermediateFieldStatement.lean:12:64: Unused tactic linter: `exact GlobalTheory.ksForm_tensor_linearIndependent` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentFormsIntermediateFieldStatement.lean:12:117: Unused tactic linter: `(intros; apply GlobalTheory.ksForm_tensor_linearIndependent <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8741/8823] Replayed Development.AbelianVarietyTheory.Proofs.TwistedOperators.EndoApplyEq
+warning: src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/EndoApplyEq.lean:49:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/EndoApplyEq.lean:42:33: Variable name `inst` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/EndoApplyEq.lean:42:76: Variable name `inst_2` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_2
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/EndoApplyEq.lean:43:24: Variable name `inst_3` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_3
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/EndoApplyEq.lean:43:64: Variable name `inst_4` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_4
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [8743/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LinearMapContinuousOfCompactSpaceOfFiniteStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearMapContinuousOfCompactSpaceOfFiniteStatement.lean:6:79: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearMapContinuousOfCompactSpaceOfFiniteStatement.lean:6:147: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearMapContinuousOfCompactSpaceOfFiniteStatement.lean:6:79: Unused tactic linter: `exact GlobalTheory.linearMap_continuous_of_compactSpace_of_finite` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearMapContinuousOfCompactSpaceOfFiniteStatement.lean:6:147: Unused tactic linter: `(intros;
+  apply GlobalTheory.linearMap_continuous_of_compactSpace_of_finite <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8746/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LvlPolyDistinguished
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LvlPolyDistinguished.lean:52:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LvlPolyDistinguished.lean:91:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8747/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumSingularAndInvertible
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixGaussSumSingularAndInvertible.lean:59:6: `push_neg` has been deprecated. Prefer using `push Not` instead.
+If you'd rather continue using `push_neg` in your project, you can implement it as follows:
+```
+open Lean.Parser.Tactic in
+macro "push_neg" cfg:optConfig loc:(location)? : tactic =>
+  `(tactic| push $cfg:optConfig Not $[$loc]?)
+```
+⚠ [8748/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumMulDualEqCardPowSq
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixGaussSumMulDualEqCardPowSq.lean:20:19: `push_neg` has been deprecated. Prefer using `push Not` instead.
+If you'd rather continue using `push_neg` in your project, you can implement it as follows:
+```
+open Lean.Parser.Tactic in
+macro "push_neg" cfg:optConfig loc:(location)? : tactic =>
+  `(tactic| push $cfg:optConfig Not $[$loc]?)
+```
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixGaussSumMulDualEqCardPowSq.lean:23:19: `push_neg` has been deprecated. Prefer using `push Not` instead.
+If you'd rather continue using `push_neg` in your project, you can implement it as follows:
+```
+open Lean.Parser.Tactic in
+macro "push_neg" cfg:optConfig loc:(location)? : tactic =>
+  `(tactic| push $cfg:optConfig Not $[$loc]?)
+```
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixGaussSumMulDualEqCardPowSq.lean:18:10: This simp argument is unused:
+  Fintype.card_fun
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [← pow_mul, sq]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8750/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixMulEntryNormLeUltrametricStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixMulEntryNormLeUltrametricStatement.lean:6:69: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixMulEntryNormLeUltrametricStatement.lean:6:127: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixMulEntryNormLeUltrametricStatement.lean:6:69: Unused tactic linter: `exact GlobalTheory.matrix_mul_entry_norm_le_ultrametric` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixMulEntryNormLeUltrametricStatement.lean:6:127: Unused tactic linter: `(intros; apply GlobalTheory.matrix_mul_entry_norm_le_ultrametric <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8751/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixOneAddPowSubEntryLe
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixOneAddPowSubEntryLe.lean:29:26: This simp argument is unused:
+  add_mul
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [mul_add, mul_one, one_mul, sub_mul, smul_mul_assoc, add_smul, one_smul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8752/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixOneAddPowSubEntryLeStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixOneAddPowSubEntryLeStatement.lean:6:64: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixOneAddPowSubEntryLeStatement.lean:6:117: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixOneAddPowSubEntryLeStatement.lean:6:64: Unused tactic linter: `exact GlobalTheory.matrix_one_add_pow_sub_entry_le` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MatrixOneAddPowSubEntryLeStatement.lean:6:117: Unused tactic linter: `(intros; apply GlobalTheory.matrix_one_add_pow_sub_entry_le <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8754/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxIdealExactPowDvdSpanPrimeStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MaxIdealExactPowDvdSpanPrimeStatement.lean:7:66: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MaxIdealExactPowDvdSpanPrimeStatement.lean:7:121: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MaxIdealExactPowDvdSpanPrimeStatement.lean:7:66: Unused tactic linter: `exact GlobalTheory.maxIdeal_exact_pow_dvd_span_prime` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MaxIdealExactPowDvdSpanPrimeStatement.lean:7:121: Unused tactic linter: `(intros; apply GlobalTheory.maxIdeal_exact_pow_dvd_span_prime <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8755/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonicDvdXPowCardSubOneExistsRoot
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonicDvdXPowCardSubOneExistsRoot.lean:12:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8756/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonicDvdXPowCardSubOneExistsRootStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonicDvdXPowCardSubOneExistsRootStatement.lean:7:73: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonicDvdXPowCardSubOneExistsRootStatement.lean:7:135: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonicDvdXPowCardSubOneExistsRootStatement.lean:7:73: Unused tactic linter: `exact GlobalTheory.monic_dvd_X_pow_card_sub_one_exists_root` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonicDvdXPowCardSubOneExistsRootStatement.lean:7:135: Unused tactic linter: `(intros;
+  apply GlobalTheory.monic_dvd_X_pow_card_sub_one_exists_root <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8758/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MonoidAlgebraExistsRightInvOfMapFieldStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonoidAlgebraExistsRightInvOfMapFieldStatement.lean:6:69: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonoidAlgebraExistsRightInvOfMapFieldStatement.lean:6:127: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonoidAlgebraExistsRightInvOfMapFieldStatement.lean:6:69: Unused tactic linter: `exact GlobalTheory.groupAlgebra_exists_right_inv_of_map` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MonoidAlgebraExistsRightInvOfMapFieldStatement.lean:6:127: Unused tactic linter: `(intros; apply GlobalTheory.groupAlgebra_exists_right_inv_of_map <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8759/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MoorePowSubSelfEqProd
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MoorePowSubSelfEqProd.lean:12:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8760/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MultisetManySeparatedPoints
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MultisetManySeparatedPoints.lean:19:4: `push_neg` has been deprecated. Prefer using `push Not` instead.
+If you'd rather continue using `push_neg` in your project, you can implement it as follows:
+```
+open Lean.Parser.Tactic in
+macro "push_neg" cfg:optConfig loc:(location)? : tactic =>
+  `(tactic| push $cfg:optConfig Not $[$loc]?)
+```
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MultisetManySeparatedPoints.lean:54:16: This simp argument is unused:
+  map_sum
+
+Hint: Omit it from the simp argument list.
+  [apply] simp
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8761/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MultisetManySeparatedPointsStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MultisetManySeparatedPointsStatement.lean:8:63: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MultisetManySeparatedPointsStatement.lean:8:115: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MultisetManySeparatedPointsStatement.lean:8:63: Unused tactic linter: `exact GlobalTheory.multiset_many_separated_points` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/MultisetManySeparatedPointsStatement.lean:8:115: Unused tactic linter: `(intros; apply GlobalTheory.multiset_many_separated_points <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8762/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NatCastPowMulValuationLeOneOfNotPowSuccDvdDiffer
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NatCastPowMulValuationLeOneOfNotPowSuccDvdDiffer.lean:16:4: `push_neg` has been deprecated. Prefer using `push Not` instead.
+If you'd rather continue using `push_neg` in your project, you can implement it as follows:
+```
+open Lean.Parser.Tactic in
+macro "push_neg" cfg:optConfig loc:(location)? : tactic =>
+  `(tactic| push $cfg:optConfig Not $[$loc]?)
+```
+⚠ [8763/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NatCastPowMulValuationLeOneOfNotPowSuccDvdDifferStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NatCastPowMulValuationLeOneOfNotPowSuccDvdDifferStatement.lean:8:100: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NatCastPowMulValuationLeOneOfNotPowSuccDvdDifferStatement.lean:8:189: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NatCastPowMulValuationLeOneOfNotPowSuccDvdDifferStatement.lean:8:100: Unused tactic linter: `exact
+  GlobalTheory.natCast_pow_mul_valuation_le_one_of_not_pow_succ_dvd_differentIdeal` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NatCastPowMulValuationLeOneOfNotPowSuccDvdDifferStatement.lean:8:189: Unused tactic linter: `(intros;
+  apply GlobalTheory.natCast_pow_mul_valuation_le_one_of_not_pow_succ_dvd_differentIdeal <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8764/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NcardPrimesOverEqFinrankOfTrivialFrobenius
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:9:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:38:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:47:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:48:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:50:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:66:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:67:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:74:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:78:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:79:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:86:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobenius.lean:87:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8765/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NcardPrimesOverEqFinrankOfTrivialFrobeniusStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobeniusStatement.lean:6:97: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobeniusStatement.lean:6:183: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobeniusStatement.lean:6:97: Unused tactic linter: `exact GlobalTheory.exists_finite_ncard_primesOver_eq_finrank_of_pow_absNorm_sub_mem` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NcardPrimesOverEqFinrankOfTrivialFrobeniusStatement.lean:6:183: Unused tactic linter: `(intros;
+  apply GlobalTheory.exists_finite_ncard_primesOver_eq_finrank_of_pow_absNorm_sub_mem <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8767/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NewtonPolygonDominantIndexXSubCMulStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonDominantIndexXSubCMulStatement.lean:7:62: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonDominantIndexXSubCMulStatement.lean:7:113: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonDominantIndexXSubCMulStatement.lean:7:62: Unused tactic linter: `exact GlobalTheory.newton_step_root_outside_disc` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonDominantIndexXSubCMulStatement.lean:7:113: Unused tactic linter: `(intros; apply GlobalTheory.newton_step_root_outside_disc <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8769/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NewtonPolygonLastDominantIndexMulXSubCStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonLastDominantIndexMulXSubCStatement.lean:7:57: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonLastDominantIndexMulXSubCStatement.lean:7:103: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonLastDominantIndexMulXSubCStatement.lean:7:57: Unused tactic linter: `exact GlobalTheory.newton_step_root_in_disc` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NewtonPolygonLastDominantIndexMulXSubCStatement.lean:7:103: Unused tactic linter: `(intros; apply GlobalTheory.newton_step_root_in_disc <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8770/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NonemptyJacquetRallisHaarMeasuresForallSize
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:15:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:66:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:72:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:72:21: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:72:40: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:72:56: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:73:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:74:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:75:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:76:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:77:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:78:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:79:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:80:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NonemptyJacquetRallisHaarMeasuresForallSize.lean:81:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8771/8823] Replayed Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormPowLeNormFactorial
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:25:23: `IsUltrametricDist.exists_norm_finset_sum_le_of_nonempty` has been deprecated: Use `IsUltrametricDist.exists_norm_finsetSum_le_of_nonempty` instead
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:22:41: Variable name `hb` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hb
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:43:23: `IsUltrametricDist.exists_norm_finset_sum_le_of_nonempty` has been deprecated: Use `IsUltrametricDist.exists_norm_finsetSum_le_of_nonempty` instead
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:65:0: automatically included section variable(s) unused in theorem `GlobalTheory.BK.wS_nonneg`:
+  [IsUltrametricDist K]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsUltrametricDist K] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:73:34: `Nat.add_div_le_add_div` has been deprecated: Use `Nat.div_add_div_le_add_div` instead
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:169:0: automatically included section variable(s) unused in theorem `GlobalTheory.BK.mem_R`:
+  [IsUnitBall O K]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsUnitBall O K] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:194:30: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:213:41: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:356:0: automatically included section variable(s) unused in theorem `GlobalTheory.BK.frob_bound`:
+  [IsUltrametricDist K]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [IsUltrametricDist K] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:392:86: Variable name `f` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _f
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/NormPowLeNormFactorial.lean:498:0: automatically included section variable(s) unused in theorem `GlobalTheory.BK.norm_factorial_le`:
+  [NormedAlgebra ℚ_[l] K]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [NormedAlgebra ℚ_[l] K] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [8774/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormEqMulNormIdempotentCornerStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormEqMulNormIdempotentCornerStatement.lean:7:61: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormEqMulNormIdempotentCornerStatement.lean:7:111: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormEqMulNormIdempotentCornerStatement.lean:7:61: Unused tactic linter: `exact GlobalTheory.norm_eq_mul_norm_idem_corner` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormEqMulNormIdempotentCornerStatement.lean:7:111: Unused tactic linter: `(intros; apply GlobalTheory.norm_eq_mul_norm_idem_corner <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8775/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormHasSumEqOfDominant
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormHasSumEqOfDominant.lean:31:13: `NormedAddCommGroup.tendsto_nhds_zero` has been deprecated: Use `NormedAddGroup.tendsto_nhds_zero` instead
+
+Note: The updated constant is in a different namespace. Dot notation may need to be changed (e.g., from `x.tendsto_nhds_zero` to `NormedAddGroup.tendsto_nhds_zero x`).
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormHasSumEqOfDominant.lean:34:23: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+⚠ [8776/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormHasSumEqOfDominantStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormHasSumEqOfDominantStatement.lean:7:59: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormHasSumEqOfDominantStatement.lean:7:107: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormHasSumEqOfDominantStatement.lean:7:59: Unused tactic linter: `exact GlobalTheory.norm_hasSum_eq_of_dominant` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormHasSumEqOfDominantStatement.lean:7:107: Unused tactic linter: `(intros; apply GlobalTheory.norm_hasSum_eq_of_dominant <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8778/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormIntegralStarMulSqLeMulStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormIntegralStarMulSqLeMulStatement.lean:7:61: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormIntegralStarMulSqLeMulStatement.lean:7:111: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormIntegralStarMulSqLeMulStatement.lean:7:61: Unused tactic linter: `exact GlobalTheory.norm_integral_star_mul_sq_le` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormIntegralStarMulSqLeMulStatement.lean:7:111: Unused tactic linter: `(intros; apply GlobalTheory.norm_integral_star_mul_sq_le <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8779/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotDvdCoeffAevalOneAddXPowSubOne
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOne.lean:32:10: This simp argument is unused:
+  h0
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [hl.ne_zero]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOne.lean:46:56: `Polynomial.finset_sum_coeff` has been deprecated: Use `Polynomial.finsetSum_coeff` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOne.lean:38:8: Overlapping instance parameters in `not_dvd_coeff_aeval_oneAddX_pow_sub_one`:
+
+⚠️ `[IsDomain O]` and `[IsDiscreteValuationRing O]` each imply `[Nontrivial O]`.
+💡️ Of these, `[IsDomain O]` and `[IsDiscreteValuationRing O]` may be removed.
+
+Note: This linter can be disabled with `set_option linter.overlappingInstances false`
+⚠ [8780/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotDvdCoeffAevalOneAddXPowSubOneStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOneStatement.lean:6:72: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOneStatement.lean:6:133: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOneStatement.lean:5:8: Overlapping instance parameters in `GlobalTheory.T.not_dvd_coeff_aeval_one_add_X_pow_sub_one`:
+
+⚠️ `[IsDomain O]` and `[IsDiscreteValuationRing O]` each imply `[Nontrivial O]`.
+💡️ Of these, `[IsDomain O]` and `[IsDiscreteValuationRing O]` may be removed.
+
+Note: This linter can be disabled with `set_option linter.overlappingInstances false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOneStatement.lean:6:72: Unused tactic linter: `exact GlobalTheory.not_dvd_coeff_aeval_oneAddX_pow_sub_one` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotDvdCoeffAevalOneAddXPowSubOneStatement.lean:6:133: Unused tactic linter: `(intros; apply GlobalTheory.not_dvd_coeff_aeval_oneAddX_pow_sub_one <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8781/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotMemSqOfDerivative
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotMemSqOfDerivative.lean:29:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8782/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotMemSqOfDerivativeStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotMemSqOfDerivativeStatement.lean:12:72: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotMemSqOfDerivativeStatement.lean:12:133: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotMemSqOfDerivativeStatement.lean:12:72: Unused tactic linter: `exact GlobalTheory.UnramSimpleGen.not_mem_sq_of_derivative` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotMemSqOfDerivativeStatement.lean:12:133: Unused tactic linter: `(intros; apply GlobalTheory.UnramSimpleGen.not_mem_sq_of_derivative <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8783/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotXPowSuccDvdDetOfFirstOrderKernelEqZero
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZero.lean:66:36: `Polynomial.finset_sum_coeff` has been deprecated: Use `Polynomial.finsetSum_coeff` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZero.lean:69:36: `Polynomial.finset_sum_coeff` has been deprecated: Use `Polynomial.finsetSum_coeff` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZero.lean:66:36: This simp argument is unused:
+  Polynomial.finset_sum_coeff
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [hΘ, hA, Matrix.mul_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZero.lean:69:36: This simp argument is unused:
+  Polynomial.finset_sum_coeff
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [hΘ, hB, Matrix.mul_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8784/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotXPowSuccDvdDetOfFirstOrderKernelEqZeroStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZeroStatement.lean:7:85: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZeroStatement.lean:7:159: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZeroStatement.lean:7:85: Unused tactic linter: `exact GlobalTheory.not_X_pow_succ_dvd_det_of_first_order_kernel_eq_zero` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NotXPowSuccDvdDetOfFirstOrderKernelEqZeroStatement.lean:7:159: Unused tactic linter: `(intros;
+  apply GlobalTheory.not_X_pow_succ_dvd_det_of_first_order_kernel_eq_zero <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8786/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NumericalConditionsTheoremTLargePrimeStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NumericalConditionsTheoremTLargePrimeStatement.lean:6:65: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NumericalConditionsTheoremTLargePrimeStatement.lean:6:119: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NumericalConditionsTheoremTLargePrimeStatement.lean:6:65: Unused tactic linter: `exact GlobalTheory.numerical_bounds_of_forty_mul_lt` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NumericalConditionsTheoremTLargePrimeStatement.lean:6:119: Unused tactic linter: `(intros; apply GlobalTheory.numerical_bounds_of_forty_mul_lt <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8789/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PadicIntContinuousHomNormalizeOneStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PadicIntContinuousHomNormalizeOneStatement.lean:6:55: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PadicIntContinuousHomNormalizeOneStatement.lean:6:99: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PadicIntContinuousHomNormalizeOneStatement.lean:6:55: Unused tactic linter: `exact GlobalTheory.padicInt_hom_normalize` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PadicIntContinuousHomNormalizeOneStatement.lean:6:99: Unused tactic linter: `(intros; apply GlobalTheory.padicInt_hom_normalize <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8791/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PowSubDvdChoosePrimePowOfLtStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowSubDvdChoosePrimePowOfLtStatement.lean:6:67: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowSubDvdChoosePrimePowOfLtStatement.lean:6:123: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowSubDvdChoosePrimePowOfLtStatement.lean:6:67: Unused tactic linter: `exact GlobalTheory.pow_sub_dvd_choose_prime_pow_of_lt` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowSubDvdChoosePrimePowOfLtStatement.lean:6:123: Unused tactic linter: `(intros; apply GlobalTheory.pow_sub_dvd_choose_prime_pow_of_lt <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8793/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PowerSeriesExistsUniqueDecompOverFrobeniusLikeEnStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowerSeriesExistsUniqueDecompOverFrobeniusLikeEnStatement.lean:6:72: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowerSeriesExistsUniqueDecompOverFrobeniusLikeEnStatement.lean:6:133: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowerSeriesExistsUniqueDecompOverFrobeniusLikeEnStatement.lean:6:72: Unused tactic linter: `exact GlobalTheory.InertiaEigenvalues.PowerSeriesFree.main` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PowerSeriesExistsUniqueDecompOverFrobeniusLikeEnStatement.lean:6:133: Unused tactic linter: `(intros; apply GlobalTheory.InertiaEigenvalues.PowerSeriesFree.main <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8795/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdOneSubBoundedBelowOfSummableStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProdOneSubBoundedBelowOfSummableStatement.lean:7:59: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProdOneSubBoundedBelowOfSummableStatement.lean:7:107: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProdOneSubBoundedBelowOfSummableStatement.lean:7:59: Unused tactic linter: `exact GlobalTheory.prod_one_sub_bounded_below` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProdOneSubBoundedBelowOfSummableStatement.lean:7:107: Unused tactic linter: `(intros; apply GlobalTheory.prod_one_sub_bounded_below <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8796/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProjectiveOfFreeLatticeOverFiniteFreeRing
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProjectiveOfFreeLatticeOverFiniteFreeRing.lean:8:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8797/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProjectiveOfFreeLatticeOverFiniteFreeRingStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProjectiveOfFreeLatticeOverFiniteFreeRingStatement.lean:6:74: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProjectiveOfFreeLatticeOverFiniteFreeRingStatement.lean:6:137: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProjectiveOfFreeLatticeOverFiniteFreeRingStatement.lean:6:74: Unused tactic linter: `exact GlobalTheory.projective_compHom_of_free_of_finite_free` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProjectiveOfFreeLatticeOverFiniteFreeRingStatement.lean:6:137: Unused tactic linter: `(intros;
+  apply GlobalTheory.projective_compHom_of_free_of_finite_free <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8799/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuotPowMaximalCharPLocalCardStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotPowMaximalCharPLocalCardStatement.lean:7:66: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotPowMaximalCharPLocalCardStatement.lean:7:121: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotPowMaximalCharPLocalCardStatement.lean:7:66: Unused tactic linter: `exact GlobalTheory.quot_pow_maximal_charP_local_card` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotPowMaximalCharPLocalCardStatement.lean:7:121: Unused tactic linter: `(intros; apply GlobalTheory.quot_pow_maximal_charP_local_card <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8800/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuotientEquivRestrictedComponentFamilies
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotientEquivRestrictedComponentFamilies.lean:24:15: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotientEquivRestrictedComponentFamilies.lean:74:54: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+⚠ [8801/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuotientEquivRestrictedComponentFamiliesStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotientEquivRestrictedComponentFamiliesStatement.lean:7:66: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotientEquivRestrictedComponentFamiliesStatement.lean:7:121: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotientEquivRestrictedComponentFamiliesStatement.lean:7:66: Unused tactic linter: `exact GlobalTheory.quotient_equiv_restrictedFamilies` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuotientEquivRestrictedComponentFamiliesStatement.lean:7:121: Unused tactic linter: `(intros; apply GlobalTheory.quotient_equiv_restrictedFamilies <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8803/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RTensorPairingEqZeroOfFlipInjectiveStatement
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RTensorPairingEqZeroOfFlipInjectiveStatement.lean:7:74: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RTensorPairingEqZeroOfFlipInjectiveStatement.lean:7:137: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RTensorPairingEqZeroOfFlipInjectiveStatement.lean:7:74: Unused tactic linter: `exact GlobalTheory.rTensor_pairing_eq_zero_of_flip_injective` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RTensorPairingEqZeroOfFlipInjectiveStatement.lean:7:137: Unused tactic linter: `(intros;
+  apply GlobalTheory.rTensor_pairing_eq_zero_of_flip_injective <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8804/8823] Replayed Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsMulEqMulDiagonal
+warning: src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ExistsMulEqMulDiagonal.lean:27:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ExistsMulEqMulDiagonal.lean:28:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8805/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RelIndexStandardLatticeTransposeInvDvr
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RelIndexStandardLatticeTransposeInvDvr.lean:110:123: This simp argument is unused:
+  Algebra.algebraMap_self
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [N, Matrix.map_apply, Matrix.of_apply, Matrix.smul_apply, hN0 (i, j), ha_def, smul_eq_mul,
+    Algebra.smul_def, RingHom.id_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RelIndexStandardLatticeTransposeInvDvr.lean:110:148: This simp argument is unused:
+  RingHom.id_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [N, Matrix.map_apply, Matrix.of_apply, Matrix.smul_apply, hN0 (i, j), ha_def, smul_eq_mul,
+    Algebra.smul_def, Algebra.algebraMap_self]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RelIndexStandardLatticeTransposeInvDvr.lean:140:8: Overlapping instance parameters in `relIndex_transpose_inv`:
+
+⚠️ `[IsDomain O]` and `[IsDiscreteValuationRing O]` each imply `[Nontrivial O]`.
+💡️ Of these, `[IsDomain O]` and `[IsDiscreteValuationRing O]` may be removed.
+
+Note: This linter can be disabled with `set_option linter.overlappingInstances false`
+✔ [8806/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.InvariantSchwartzMemSpanLatticeIndicators (14s)
+⚠ [8807/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.KappaSumZeroAndStableSumMulZeroOfNotIntegral (15s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/KappaSumZeroAndStableSumMulZeroOfNotIntegral.lean:14:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8808/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LinearIndependentTrace
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:15:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:16:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:17:4: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:14:61: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:15:4: Unused tactic linter: `(intros; apply _root_.GlobalTheory.OrthogonalProjectionOnto.main <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:16:4: Unused tactic linter: `(intros;
+  apply @_root_.GlobalTheory.OrthogonalProjectionOnto.main <;>
+    first
+    | assumption
+    | infer_instance)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:17:4: Unused tactic linter: `(intros; exact _root_.GlobalTheory.OrthogonalProjectionOnto.main ..)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LinearIndependentTrace.lean:41:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+✔ [8809/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.OverExtAlgebraMap (16s)
+⚠ [8810/8823] Replayed Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ResidueFieldMapAdicCompletionSurjective
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:21:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:32:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:33:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:34:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:45:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:53:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:54:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:40:15: This simp argument is unused:
+  Subalgebra.coe_mul
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only at hbc ⊢
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:62:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:63:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ResidueFieldMapAdicCompletionSurjective.lean:58:8: Overlapping instance parameters in `exists_complete_dvr_finite_residueField`:
+
+⚠️ `[IsDomain D]` and `[IsLocalRing D]` each imply `[Nontrivial D]`.
+💡️ Of these, `[IsDomain D]` and `[IsLocalRing D]` may be removed.
+
+Note: This linter can be disabled with `set_option linter.overlappingInstances false`
+⚠ [8811/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RelIndexNeZeroOfBetween (17s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RelIndexNeZeroOfBetween.lean:61:33: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RelIndexNeZeroOfBetween.lean:73:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/RelIndexNeZeroOfBetween.lean:74:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8812/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JacquetRallisTransferFactorKrylovDet (18s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:8:0: automatically included section variable(s) unused in theorem `GlobalTheory.JR.TransferFactor.full_cc`:
+  [CommRing k]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CommRing k] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:11:0: automatically included section variable(s) unused in theorem `GlobalTheory.JR.TransferFactor.full_lc`:
+  [CommRing k]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [CommRing k] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:32:84: This simp argument is unused:
+  Matrix.one_apply_ne' (Fin.castSucc_ne_last _)
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [vrow, Pi.single_apply, Fin.castSucc_ne_last, Matrix.vecMul, dotProduct, Matrix.one_apply]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:43:60: This simp argument is unused:
+  mul_comm
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [map_add, Polynomial.aeval_X, Polynomial.aeval_C, Matrix.vecMul_add, Matrix.vecMul_vecMul,
+    Algebra.algebraMap_eq_smul_one, Matrix.vecMul_smul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:50:8: `Matrix.det_of_lowerTriangular` has been deprecated: Use `Matrix.det_of_isLowerTriangular` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:63:19: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [Fin.castSucc_ne_last, Matrix.one_apply_ne' (Fin.castSucc_ne_last _)]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:63:36: This simp argument is unused:
+  Fin.castSucc_ne_last
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [Pi.single_apply, Matrix.one_apply_ne' (Fin.castSucc_ne_last _)]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisTransferFactorKrylovDet.lean:81:35: This simp argument is unused:
+  Cm
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [Matrix.vecMul, dotProduct]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8813/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LocallyCompactOfComplete (18s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:55:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:61:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:64:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:115:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:133:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:134:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:142:94: `complete_univ` has been deprecated: Use `isComplete_univ` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:157:72: `zero_le'` has been deprecated: Use `zero_le` instead
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:267:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:276:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:281:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/LocallyCompactOfComplete.lean:239:117: Variable name `hE` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hE
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [8814/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsLatComap (18s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:48:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:66:29: Variable name `inst` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:66:57: Variable name `inst_1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:67:5: Variable name `inst_2` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_2
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:67:43: Variable name `inst_3` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_3
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:68:5: Variable name `inst_4` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_4
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:68:77: Variable name `inst_5` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_5
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:69:5: Variable name `inst_6` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_6
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:69:43: Variable name `inst_7` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_7
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsLatComap.lean:70:5: Variable name `inst_8` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _inst_8
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [8815/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JacquetRallisBorderedMatrixNormalFormInvariants (18s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisBorderedMatrixNormalFormInvariants.lean:37:39: This simp argument is unused:
+  of_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [mulVec_single, companion, mul_one, ev]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisBorderedMatrixNormalFormInvariants.lean:37:49: This simp argument is unused:
+  mul_one
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [mulVec_single, companion, of_apply, ev]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [8816/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaLatticeFamilyImageOfSurjective (19s)
+⚠ [8817/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormSubLeMaxUltra (19s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormSubLeMaxUltra.lean:42:39: This simp argument is unused:
+  Matrix.one_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [row, col, hwu, (Fin.castSucc_lt_last c).ne']
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormSubLeMaxUltra.lean:47:10: This simp argument is unused:
+  Matrix.one_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [row, col, ρ, sub_dotProduct, smul_dotProduct, single_dotProduct, hwv, (Fin.castSucc_lt_last c).ne]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormSubLeMaxUltra.lean:66:12: This simp argument is unused:
+  Pi.single_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [h]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormSubLeMaxUltra.lean:99:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8818/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntUnitOfMulLat (19s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntUnitOfMulLat.lean:173:47: This simp argument is unused:
+  Mf
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Units.val_mul]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [8819/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntCastTraceEqTraceQuotientOfMemStatement (6.1s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMemStatement.lean:7:71: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMemStatement.lean:7:131: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMemStatement.lean:7:71: Unused tactic linter: `exact GlobalTheory.intCast_trace_eq_trace_quotient_of_mem` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IntCastTraceEqTraceQuotientOfMemStatement.lean:7:131: Unused tactic linter: `(intros; apply GlobalTheory.intCast_trace_eq_trace_quotient_of_mem <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8820/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IndepOverPadicOfIndepModPrimeStatement (7.1s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IndepOverPadicOfIndepModPrimeStatement.lean:7:61: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IndepOverPadicOfIndepModPrimeStatement.lean:7:111: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IndepOverPadicOfIndepModPrimeStatement.lean:7:61: Unused tactic linter: `exact GlobalTheory.indep_over_Ql_of_indep_mod_l` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IndepOverPadicOfIndepModPrimeStatement.lean:7:111: Unused tactic linter: `(intros; apply GlobalTheory.indep_over_Ql_of_indep_mod_l <;> assumption)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+⚠ [8821/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NabBijectiveWindow (8.2s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:22:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:24:4: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:98:26: This simp argument is unused:
+  map_sub
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [map_add, map_mul, map_one, map_pow, map_natCast, ← hv]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:98:53: This simp argument is unused:
+  map_pow
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [map_add, map_sub, map_mul, map_one, map_natCast, ← hv]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:108:0: automatically included section variable(s) unused in theorem `GlobalTheory.PhiGam.Window.mem_sh_iff`:
+  [Module k V]
+  [IsScalarTower k k⸨X⸩ V]
+  [IsScalarTower k k⟦X⟧ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Module k V] [IsScalarTower k k⸨X⸩ V] [IsScalarTower k k⟦X⟧ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:111:0: automatically included section variable(s) unused in theorem `GlobalTheory.PhiGam.Window.coe_smul_eq`:
+  [Module k V]
+  [IsScalarTower k k⸨X⸩ V]
+  [IsScalarTower k k⟦X⟧ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Module k V] [IsScalarTower k k⸨X⸩ V] [IsScalarTower k k⟦X⟧ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:130:0: automatically included section variable(s) unused in theorem `GlobalTheory.PhiGam.Window.nab_eq`:
+  [Module k⟦X⟧ V]
+  [IsScalarTower k⟦X⟧ k⸨X⸩ V]
+  [IsScalarTower k k⟦X⟧ V]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Module k⟦X⟧ V] [IsScalarTower k⟦X⟧ k⸨X⸩ V] [IsScalarTower k k⟦X⟧ V] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:186:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NabBijectiveWindow.lean:194:2: Try this: 
+  haveI̵
+
+The goal is a proposition, so `have` is preferred over `haveI`.
+The difference between `have` and `haveI` is that `haveI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8822/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsIntegralAdjoinOfForallCdvr (8.8s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/IsIntegralAdjoinOfForallCdvr.lean:56:2: Try this: 
+  letI̵
+
+The goal is a proposition, so `let` is preferred over `letI`.
+The difference between `let` and `letI` is that `letI` inlines the value.
+But this is not relevant for proofs because of proof irrelevance.
+
+Note: This linter can be disabled with `set_option linter.style.haveILetI false`
+⚠ [8823/8823] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.JacquetRallisOrbitInvariantMapProper (26s)
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisOrbitInvariantMapProper.lean:19:26: This simp argument is unused:
+  transpose_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [companion, of_apply, Pi.single_apply, Fin.ext_iff]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisOrbitInvariantMapProper.lean:19:43: This simp argument is unused:
+  of_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [companion, transpose_apply, Pi.single_apply, Fin.ext_iff]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/JacquetRallisOrbitInvariantMapProper.lean:52:28: This simp argument is unused:
+  transpose_apply
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [vecMul, dotProduct, mul_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+Build completed successfully (8823 jobs).
