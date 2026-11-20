@@ -1,12 +1,28 @@
 """Reconcile mutually exclusive volunteer reservations from trusted main-branch code."""
-import json,os,re,sys,urllib.request,urllib.error
+import json,os,re,sys,time,urllib.request,urllib.error
 from tasks import load
 from collections import defaultdict
 repo=os.environ['GITHUB_REPOSITORY']
 base='https://api.github.com/repos/'+repo
-def api(route,method='GET',body=None):
- request=urllib.request.Request(base+route,method=method,headers={'Authorization':'Bearer '+os.environ['GITHUB_TOKEN'],'Accept':'application/vnd.github+json','User-Agent':'replay-claims'},data=None if body is None else json.dumps(body).encode())
- with urllib.request.urlopen(request,timeout=30) as response:return json.loads(response.read() or 'null')
+limits: dict = {'remaining': None, 'reset': None}
+def api(route,method='GET',body=None,attempts=4):
+ for attempt in range(attempts):
+  request=urllib.request.Request(base+route,method=method,headers={'Authorization':'Bearer '+os.environ['GITHUB_TOKEN'],'Accept':'application/vnd.github+json','User-Agent':'replay-claims'},data=None if body is None else json.dumps(body).encode())
+  try:
+   with urllib.request.urlopen(request,timeout=30) as response:
+    remaining=response.headers.get('X-RateLimit-Remaining')
+    limits['remaining']=int(remaining) if remaining is not None else None
+    limits['reset']=response.headers.get('X-RateLimit-Reset')
+    return json.loads(response.read() or 'null')
+  except urllib.error.HTTPError as error:
+   if error.code not in (403,429) or attempt==attempts-1:raise
+   # A busy ledger can exhaust the run token's hourly budget. Waiting for the
+   # documented reset keeps the pass from failing outright and replaying the
+   # same work on the next issue event.
+   reset=error.headers.get('X-RateLimit-Reset')
+   delay=min(120,max(5,int(reset)-int(time.time())+2)) if reset else 15*(attempt+1)
+   print(f'HTTP {error.code} on {method} {route}; sleeping {delay}s (attempt {attempt+1}/{attempts})',flush=True)
+   time.sleep(delay)
 def main():
  rows=load();groups=defaultdict(set);reserved=set()
  for r in rows:
@@ -35,6 +51,12 @@ def main():
   if win:taken.update(mods)
   desired='claim-granted' if win else 'claim-conflict'
   planned.append((i['number'],labels,target,desired))
+ writes=sum(1 for number,labels,target,desired in planned if desired not in labels or 'claim' not in labels)
+ if limits['remaining'] is not None and limits['remaining']<writes+8:
+  # Leave the queue intact for the next run rather than dying halfway through
+  # the label pass with a partially applied ledger.
+  print(f"stopping before the label pass: {limits['remaining']} requests left, {writes} needed (resets at {limits['reset']})",flush=True)
+  return
  for number,labels,target,desired in planned:
   other='claim-conflict' if desired=='claim-granted' else 'claim-granted'
   if other in labels:api(f'/issues/{number}/labels/{other}','DELETE')
